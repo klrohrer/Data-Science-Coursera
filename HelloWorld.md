@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-output: word_document
+output: html_document
 ---
 
 ##This is a markdown file
